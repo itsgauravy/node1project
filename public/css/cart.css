@@ -1,0 +1,27 @@
+#header1 {background: linear-gradient(to right,rgb(100, 163, 221),rgb(93, 224, 141));}
+#header1  .bi-person-fill{font-size: 30px;
+                        color: black;}
+#header1  .bi-cart3{font-size: 30px;
+                    color: black;}
+#header1 img{width: 70px;
+                height: 50px;}
+#header2 a {color: rgb(44, 234, 48);
+    font-family: 'Rubik Pixels', cursive;
+    text-decoration: none;
+            font-weight:bold;
+            color:rgb(43, 226, 33);
+            font-size: 15px;
+            margin-right: 10px;
+transition-property: color;
+transition-duration: 2s; }
+#header2 a:hover{color: rgb(6, 15, 1);}
+
+#banner {background:url(media/);
+    background-size: cover;
+    background-attachment: fixed;}
+#banner h2{font-family: 'Tilt Prism', cursive;}
+#banner p{text-align: justify;}
+#banner img{width: 300px;}
+
+
+
